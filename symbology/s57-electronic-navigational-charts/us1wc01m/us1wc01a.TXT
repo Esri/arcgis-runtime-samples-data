@@ -1,0 +1,70 @@
+NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+
+US1WC01M - WEST COAST OF NORTH AMERICA
+
+INDEX:
+CAUTION
+RADAR REFLECTORS
+POLLUTION REPORTS
+AIDS TO NAVIGATION
+CAUTION-TEMPORARY
+CAUTION-LARGER SCALE COVERAGE
+TRAFFIC SEPARATION SCHEME
+CAUTION-SUBMARINE OPERATING AREAS
+SUBMARINE CABLE AND PIPELINE
+
+VESSEL TRANSITING
+AUTHORITIES
+WARNING
+ADDITIONAL INFORMATION
+MARITIME BOUNDARY
+COPYRIGHT
+
+
+CAUTION
+Limitations on the use of certain radio signals as aids to marine navigation can be found in the U.S. Coast Guard Light Lists and National Geospatial-Intelligence Agency publication 117. Radio direction-finder bearings to commercial broadcasting stations are subject to error and should be used with caution.
+
+RADAR REFLECTORS
+Radar reflectors have been placed on many floating aids to navigation.  Individual radar reflector identification on these aids has been omitted from this chart.
+
+POLLUTION REPORTS
+Report all spills of oil and hazardous substances to the National Response Center via 1-800-424-8802 (toll free), or to the nearest U.S. Coast Guard facility if telephone communication is impossible (33 CFR 153).
+
+AIDS TO NAVIGATION
+Consult U.S. Coast Guard Light List for supplemental information concerning aids to navigation. See National Geospatial-Intelligence Agency List of Lights and Fog Signals for information not included in the United States Coast Guard Light List. 
+
+CAUTION-TEMPORARY
+Temporary changes or defects in aids to navigation are not indicated on this chart. See Local Notice to Mariners.
+
+CAUTION-LARGER SCALE COVERAGE
+Danger, Prohibited, and Restricted Areas falling within the limits of the larger scale charts are shown thereon and not reported on this chart.
+
+TRAFFIC SEPARATION SCHEME
+Recommended traffic lanes established for the approaches to the Strait of Juan De Fuca are shown on charts 18480, 18400 and 18465.
+
+CAUTION-SUBMARINE OPERATING AREAS
+Submerged Submarine Operating Areas falling within the limits of the larger scale charts are shown thereon and not repeated on this chart.
+
+SUBMARINE CABLE AND PIPELINE
+Additional uncharted submarine pipelines and submarine cables may exist within the area of this chart. Not all submarine pipelines and submarine cables are required to be buried, and those that were originally buried may have become exposed. Mariners should use extreme caution when operating vessels in depths of water comparable to their draft in areas where pipelines and cables may exist, and when anchoring, dragging or trawling. Covered wells may be marked by lighted or unlighted buoys.
+
+VESSEL TRANSITING
+The U.S. Coast Guard and the Pacific States/British Columbia Oil Spill Task Force endorse a system of voluntary measures and minimum distances from shore for certain commercial 
+vessels transiting along the coast anywhere between Cook Inlet, Alaska and San Diego, California. See U.S. Coast Pilot 9, Chapter 3 for details.
+
+AUTHORITIES
+Hydrography and topography by the National Ocean Service, Coast Survey, with additional data from the National Geospatial-Intelligence Agency, U.S. Coast Guard, and Canadian Hydrographic Service.
+
+WARNING
+The prudent mariner will not rely solely on any single aid to navigation, particularly on floating aids. See U.S. Coast Guard Light List and U.S. Coast Pilot for details.
+
+ADDITIONAL INFORMATION
+Additional information can be obtained at nauticalcharts.noaa.gov.
+
+MARITIME BOUNDARY
+Any international maritime boundary shown in the disputed area is without prejudice to the legal position of the United States or Canada.
+
+COPYRIGHT
+No copyright is claimed by the United States Government under Title 17 U.S.C. However, other Nations may claim intellectual property rights on the compilation of data depicting this foreign water shown on this chart. 
+
+END OF FILE

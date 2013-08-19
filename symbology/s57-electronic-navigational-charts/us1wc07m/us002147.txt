@@ -1,0 +1,72 @@
+NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+
+US1WC07E & US1WC07W	 - SAN DIEGO TO ALEUTIAN ISLANDS AND HAWAI'IAN ISLANDS
+
+INDEX:
+AUTHORITIES 
+AIDS TO NAVIGATION 
+POLLUTION REPORTS 
+RADAR REFLECTORS 
+WARNING – PRUDENT MARINER 
+SUPPLEMENTAL INFORMATION
+CAUTION 
+CAUTION 
+CAUTION
+CAUTION
+SUBMARINE PIPELINES AND CABLES
+ADDITIONAL INFORMATION
+TIDAL INFORMATION
+VESSEL TRANSITING
+NAVIGATION REGULATIONS
+NOTE H
+
+AUTHORITIES: Hydrography and topography by the National Ocean Service, Coast Survey, with additional data from the U.S. Coast Guard, British Admiralty, National Geospatial-Intelligence Agency and Canadian charts.
+
+AIDS TO NAVIGATION: Consult U.S. Coast Guard Light List for supplemental information concerning aids to navigation. 
+See Canadian List of Lights, Buoys and Fog Signals for information not included in the U.S. Coast Guard Light List.
+
+POLLUTION REPORTS: Report all spills of oil and hazardous substances to the National Response Center via 1-800-424-8802 (toll free), or to the nearest U.S. Coast Guard facility if telephone communication is impossible (33 CFR 153).
+
+RADAR REFLECTORS: Radar reflectors have been placed on many floating aids to navigation.  Individual radar reflector identification on these aids has been omitted.
+
+WARNING – PRUDENT MARINER: The prudent mariner will not rely solely on any single aid to navigation, particularly on floating aids.  See U.S. Coast Guard Light List and U.S. Coast Pilot for details.
+
+SUPPLEMENTAL INFORMATION: Consult U.S. Coast Pilots 7, 8, and 9 for important supplemental information.
+
+CAUTION: Temporary changes or defects in aids to navigation are not indicated.  See Local Notice to Mariners.
+
+CAUTION: Limitations on the use of radio signals as aids to marine navigation can be found in the U.S. Coast Guard Light Lists and National Geospatial-Intelligence Agency Publication 117.
+Radio direction-finder bearings to commercial broadcasting stations are subject to error and should be used with caution.
+
+CAUTION: Submerged Submarine Operating Areas falling within the areas of the larger scale charts are shown thereon and not repeated.
+
+CAUTION: Danger, Prohibited, and Restricted Areas falling within the limits of the larger scale charts are shown thereon and not repeated.
+
+SUBMARINE PIPELINES AND CABLES: Additional uncharted submarine pipelines and submarine cables may exist within the area.  Not all submarine pipelines and submarine cables are required to be buried, and those that were originally buried may have become exposed.  Mariners should use extreme caution when operating vessels in depths of water comparable to their draft in areas where pipelines and cables may exist, and when anchoring, dragging, or trawling.
+Covered wells may be marked by lighted or unlighted buoys.
+
+ADDITIONAL INFORMATION
+Additional information can be obtained at www.nauticalcharts.noaa.gov
+
+TIDAL INFORMATION
+For tidal information see the NOS Tide Table publication or go to http://co-ops.nos.noaa.gov.
+
+VESSEL TRANSITING
+The U.S. Coast Guard and the Pacific States/British Columbia Oil Spill Task Force endorse a system of voluntary measures and minimum distances from shore for certain commercial vessels transiting along the coast anywhere between Cook Inlet, Alaska and San Diego, California.  See U.S. Coast Pilot 7, 8 or 9, Chapter 3 for details.
+
+NAVIGATION REGULATIONS
+Navigation regulations are published in Chapter 2, U.S. Coast Pilot 7.  Additions or revisions to Chapter 2 are 
+published in the Notice to Mariners.  Information concerning the regulations may be obtained at the Office of 
+the Commander, 14th Coast Guard District in Honolulu, Hawaii or at the Office of the District Engineer, 
+Corps of Engineers in Honolulu, Hawaii.
+Refer to Code of Federal Regulations section numbers. 
+
+NOTE H
+The area to be avoided and the particularly Sensitive Sea Area have been charted in their true positions. 
+The limits of the Papahanaumokuakea Marine National Monument and inner limit of the Ship Reporting System 
+Area have been slightly offset for clarity.
+
+
+
+END OF FILE
+
