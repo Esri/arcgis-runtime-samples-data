@@ -1,8 +1,6 @@
 # arcgis-runtime-samples-data
-===========================
 
-Here is a set of sample data for use with the ArcGIS Runtime SDKs.
-This repo should be included as a SubModule of the sample repo for each ArcGIS Runtime SDK.
+This repo contains data for use with ArcGIS Runtime SDK samples.  If used in another repo, it will be included as a submodule.
 
 ## Contents
 * \basemaps - Vector basemaps and Tile Packages (.TPK)
@@ -14,42 +12,24 @@ This repo should be included as a SubModule of the sample repo for each ArcGIS R
 * \rasters - Raster datasets for use with the LocalServer via DynamicLayers.
 * \shapefiles - Esri Shapefile datasets.
 * \symbology - Files and datasets for working with symbols and renderers (JSON, XML, S-57 ENC Charts).
-
-
-## Instructions
-
-1. Go to the samples repo for your favourite ArcGIS Runtime SDK. 
-1. Fork and then clone the repo for the samples - this repo is included as a SubModule. 
-2. Run and try the samples.
-
-
-## Requirements
-
-
-## Resources
-
+* \textfiles - Files with geospatial data in text format (eg. CSV).
 
 ## Issues
 
-Find a bug or want to request a new feature?  Please let us know by submitting an issue.
-
+Find a bug or want to request new or updated content?  Please let us know by submitting an issue.
 
 ## Contributing
 
 Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
-
 ## Licensing
-Copyright 2013 Esri
-
+Copyright 2014 Esri
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-
    http://www.apache.org/licenses/LICENSE-2.0
-
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -57,8 +37,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-
-A copy of the license is available in the repository's [license.txt]( https://github.com/ArcGIS/arcgis-runtime-samples-data/blob/master/LICENSE.txt) file.
-
+A copy of the license is available in the repository's [license.txt](/license.txt) file.
 
 [](Esri Tags: ArcGIS Runtime SDK Sample Data)
