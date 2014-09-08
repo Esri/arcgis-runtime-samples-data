@@ -87,7 +87,7 @@
 		<sic>GFGPOLAGM-----X</sic>
 		<MyNotes>Control Points Reversed</MyNotes>
 		<MyNotes2>Needs Extra Control Point</MyNotes2>
-		<_control_points>-227673.83247,6679548.39442;-230125.30147,6678445.28904;-232985.46344,6676177.58919;-8076324.429,2587721.084</_control_points>
+		<_control_points>-227673.83247,6679548.39442;-230125.30147,6678445.28904;-232985.46344,6676177.58919;-228150.4387,6680222.6503</_control_points>
 		<uniquedesignation>AXIS 1</uniquedesignation>
 	</message>
 	<message>
@@ -125,14 +125,6 @@
 		<MyNotes>Control Points Reversed</MyNotes>
 		<_control_points>-226906.99878,6679149.88998;-228500.51759,6677576.8009;-232194.67644,6675625.78198</_control_points>
 		<uniquedesignation>DIRECTION OF ATTACK</uniquedesignation>
-	</message>
-	<message>
-		<_type>position_report</_type>
-		<_action>update</_action>
-		<_id>68338359-22f5-4b2b-a742-40eb4c641d36</_id>
-		<_wkid>3857</_wkid>
-		<sic>GFMPORC-------X</sic>
-		<_control_points>-229485.87122,6679300.93342;-228995.55774,6680056.83337</_control_points>
 	</message>
 	<message>
 		<_type>position_report</_type>
