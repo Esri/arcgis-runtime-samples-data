@@ -4,6 +4,7 @@ This repo contains data for use with ArcGIS Runtime SDK samples.  If used in ano
 
 ## Contents
 * \basemaps - Vector basemaps and Tile Packages (.TPK)
+* \elevation - surface elevation data for use with the SceneView/Scene.
 * \geoprocessing - Geoprocessing packages (.GPK) for performing analysis with the LocalServer.
 * \gps - Sample position information for simulating a live GPS feed.
 * \locators - Locator databases for geocoding and reverse geocoding
